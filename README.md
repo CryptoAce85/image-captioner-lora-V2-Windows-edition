@@ -40,4 +40,4 @@ Download captions as a .zip file with .txt files matching image names
  ## Generated .TXT files for images
 
 ![App Screenshot1](screenshot1.png)
-
+*Example of Luma_0003.txt:  Luma rose, A beautiful 20-year-old woman, smiling, direct gaze, blue eyes, blonde hair, taking a selfie while lying on her back, hand on stomach, slim body, toned abs, wearing red sheer lingerie, red bra, red panties, in bed, white sheets, bedroom.*
