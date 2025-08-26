@@ -44,3 +44,6 @@ Download captions as a .zip file with .txt files matching image names
 
 
 *Example of Luma_0006.txt: Luma rose, A beautiful 20-year-old woman with a slight smile, looking at viewer, kneeling on a sandy beach, long blonde hair, large breasts, cleavage, toned body, wearing a white and blue printed string bikini, ocean background, daylight.*
+
+
+*Example of Luma_0019.txt: Luma rose, A beautiful 20-year-old woman, surprised expression, looking up, open mouth, closeup on face, blonde wavy hair, blue eyes, pink lipstick, against a white striped wall.*
