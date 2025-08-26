@@ -19,7 +19,7 @@ Download captions as a .zip file with .txt files matching image names
 ## Usage & Getting Gemini API Key:
 
     Open the .EXE the web app.
-    Enter your Gemini API key (from https://makersuite.google.com)
+    Enter your Gemini API key from (https://makersuite.google.com)
     (Optional) Enter a trigger word (e.g., "skw style").
     Upload images and click "Generate Captions".
     Download captions.zip for LoRA training.
