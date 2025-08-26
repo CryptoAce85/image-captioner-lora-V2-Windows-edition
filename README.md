@@ -30,3 +30,8 @@ Download captions as a .zip file with .txt files matching image names
    the "uploads" folder to see the images you upload 
    and for every image prosessed the images will dissapear 
    from the folder so you see how long process it left, test with a few images first to check your API key
+
+ # Screenshot
+
+![App Screenshot](screenshot.png)  
+*Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "skw style"), and save or copy them with ease. Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
