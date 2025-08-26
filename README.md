@@ -25,6 +25,7 @@ Download captions as a .zip file with .txt files matching image names
 
 ## App Usage
 
-   In the app destination folder i recomend to open the "uploads" folder 
-   to see the images you upload and for every image prosessed 
-   the images will dissapear from the folder so you see how long process it left
+   In the app destination folder i recomend to open 
+   the "uploads" folder to see the images you upload 
+   and for every image prosessed the images will dissapear 
+   from the folder so you see how long process it left
