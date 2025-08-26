@@ -23,7 +23,7 @@ Download captions as a .zip file with .txt files matching image names
     Upload images and click "Generate Captions".
     Download captions.zip for LoRA training.
 
-## App Usage
+## App Usage Note:
 
    In the app destination folder i recomend to open 
    the "uploads" folder to see the images you upload 
