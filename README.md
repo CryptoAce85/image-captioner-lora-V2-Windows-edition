@@ -13,7 +13,7 @@ Download captions as a .zip file with .txt files matching image names
 ## image-captioner-lora-V2-Windows-edition
 
 ## The app is to big to be placed here but can be downloaded in my Google drive:
-# **[Download the Windows App](https://drive.google.com/file/d/1-A5e-7vH80nVL8n6V7751jUJhP14-mCJ/view?usp=drive_link)** 📥
+# **[Download the Windows App](https://drive.google.com/file/d/1-A5e-7vH80nVL8n6V7751jUJhP14-mCJ/view?usp=drive_link)** 📥💻
 
 
 ## Usage & Getting Gemini API Key:
