@@ -34,4 +34,4 @@ Download captions as a .zip file with .txt files matching image names
  # Screenshot
 
 ![App Screenshot](screenshot.png)  
-*Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "skw style"), and save or copy them with ease. Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
+*Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
