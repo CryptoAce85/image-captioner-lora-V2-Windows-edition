@@ -42,21 +42,23 @@ Download captions as a .zip file with .txt files matching image names
 
  # Screenshots
 ## 1.👇
-![App Screenshot3](screenshot3.png)
-## 2.👇
-![App Screenshot2](screenshot2.png)
-## 3.👇
-![App Screenshot](screenshot.png)  
 *Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
+![App Screenshot3](screenshot3.png)
 
+## 2.👇
+*  - Click "Generate Captions" and let it generate the .TXT files check the "uploads" folder to see the images you upload.*
+![App Screenshot2](screenshot2.png)
 
- ## Generated .TXT files for images
+## 3.👇
+* - Download captions.zip for LoRA training.*
+![App Screenshot](screenshot.png)
+
+## Generated .TXT files for images
 ## 4.👇
-![App Screenshot1](screenshot1.png)
 *Example of Luma_0003.txt:  Luma rose, A beautiful 20-year-old woman, smiling, direct gaze, blue eyes, blonde hair, taking a selfie while lying on her back, hand on stomach, slim body, toned abs, wearing red sheer lingerie, red bra, red panties, in bed, white sheets, bedroom.*
-
 
 *Example of Luma_0006.txt: Luma rose, A beautiful 20-year-old woman with a slight smile, looking at viewer, kneeling on a sandy beach, long blonde hair, large breasts, cleavage, toned body, wearing a white and blue printed string bikini, ocean background, daylight.*
 
-
 *Example of Luma_0019.txt: Luma rose, A beautiful 20-year-old woman, surprised expression, looking up, open mouth, closeup on face, blonde wavy hair, blue eyes, pink lipstick, against a white striped wall.*
+![App Screenshot1](screenshot1.png)
+
