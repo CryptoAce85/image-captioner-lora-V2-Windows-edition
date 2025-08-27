@@ -66,3 +66,4 @@ Download captions as a .zip file with .txt files matching image names
 *Example of Luma_0019.txt: Luma rose, A beautiful 20-year-old woman, surprised expression, looking up, open mouth, closeup on face, blonde wavy hair, blue eyes, pink lipstick, against a white striped wall.*
 ![App Screenshot1](screenshot1.png)
 
+*Don't forget to give this app a star in my Github if you like it, and add me on watch for more usable apps for LoRA's and AI OFM 😎❤*
