@@ -20,7 +20,7 @@ Download captions as a .zip file with .txt files matching image names
 
 - Run `image-captioner-lora-V2.exe` to start the server.
 - Accept it to acces the Browser/internet the first time you use it because its a web browser app and it needs connection to Gemini API.
-- Get a Gemini API key at: (https://makersuite.google.com/)
+- Get a Gemini API key at: (https://makersuite.google.com/) Or just press "Get new API key" button on the app.
 - if Gemini API key is region blocked its because its the server you connected to is in wrong destination, test with another gmail
 - when u find a gmail that works you can create one Key,
   and to create more keys with same Gmail make several projects that needs a Gemini key  with that gmail in
