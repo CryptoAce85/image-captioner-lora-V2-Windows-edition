@@ -42,7 +42,7 @@ Download captions as a .zip file with .txt files matching image names
 
  # Screenshots
 # 1.👇
-*- Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
+*  Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.
 ![App Screenshot3](screenshot3.png)
 
 # 2.👇
