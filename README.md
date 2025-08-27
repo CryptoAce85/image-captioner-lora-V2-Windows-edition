@@ -28,7 +28,7 @@ Download captions as a .zip file with .txt files matching image names
 - Explaination video to make several keys:  (https://www.youtube.com/watch?v=IdVgDHeNiEM)
 
 - Enter your Gemini API key and select images.
-- Optionally enter a trigger word (leave blank for no prefix, or enter e.g., 'Rose' to prepend).
+- Optionally enter a trigger word (leave blank for no prefix, or enter e.g., 'Luma Rose' to prepend).
 - Click "Generate Captions" to process images and download the ZIP file.
 - The app creates `uploads` and `captions` folders in the same directory.
 - Free Gemini API Quota: 50 requests/day, resets at 2:00 AM CEST.
@@ -38,21 +38,21 @@ Download captions as a .zip file with .txt files matching image names
    In the app destination folder i recomend to open 
    the "uploads" folder to see the images you upload 
    and for every image prosessed the images will dissapear 
-   from the folder so you see how long process it left, test with a few images first to check your API key
+   from the folder so you see how long process is left, test with a few images first to check your API key
 
  # Screenshots
 # 1.👇
-*  Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.
+*  Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". 
   
 ![App Screenshot3](screenshot3.png)
 
 # 2.👇
-*  Click "Generate Captions" and let it generate the .TXT files check the "uploads" folder to see the images you upload.
+*  Click "Generate Captions" and let it generate the .TXT files check the "uploads" folder to see the images you upload and for every image prosessed the images will dissapear from the folder so you see how long process is left, test with a few images first to check your API key is working well.
   
 ![App Screenshot2](screenshot2.png)
 
 # 3.👇
-*  Download captions.zip for LoRA training.
+*  Download captions.zip for LoRA training or just copy them unpacked from the "captions" folder.
   
 ![App Screenshot](screenshot.png)
 
