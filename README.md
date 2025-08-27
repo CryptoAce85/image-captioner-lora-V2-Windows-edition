@@ -50,7 +50,7 @@ Download captions as a .zip file with .txt files matching image names
 ![App Screenshot3](screenshot3.png)
 
 # 2.👇
-*  Click "Generate Captions" and let it generate the .TXT files check the "uploads" folder to see the images you upload and for every image prosessed the images will dissapear from the folder so you see how long process is left, test with a few images first to check your API key is working well.
+*  Click "Generate Captions" and let it generate the .TXT files, check the "uploads" folder to see the images you upload and for every image prosessed the images will dissapear from the folder so you see how long process is left, test with a few images first to check your API key is working well.
   
 ![App Screenshot2](screenshot2.png)
 
