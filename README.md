@@ -15,15 +15,24 @@ Download captions as a .zip file with .txt files matching image names
 ## The app is to big to be placed here but can be downloaded from my Google drive:
 # 📥 **[Download the Windows App](https://drive.google.com/file/d/1-A5e-7vH80nVL8n6V7751jUJhP14-mCJ/view?usp=drive_link)** 💻
 
-
+---------------------------------------------------------------------------------------
 ## Usage & Getting Gemini API Key:
 
-    Open the .EXE the web app.
-    Enter your Gemini API key from (https://makersuite.google.com)
-    (Optional) Enter a trigger word (e.g., "skw style").
-    Upload images and click "Generate Captions".
-    Download captions.zip for LoRA training.
+- Run `app.exe` to start the server.
+- Get a Gemini API key at: (https://makersuite.google.com/)
+- if Gemini API key is region blocked its because its the server you connected to is in wrong destination, test with another gmail
+- when u find a gmail that works you can create one Key,
+  and to create more keys with same Gmail make several projects that needs a Gemini key with that gmail in
+  (https://studio.firebase.google.com/)
 
+- Explaination video to make several keys:  (https://www.youtube.com/watch?v=IdVgDHeNiEM)
+
+- Enter your Gemini API key and select images.
+- Optionally enter a trigger word (leave blank for no prefix, or enter e.g., 'Rose' to prepend).
+- Click "Generate Captions" to process images and download the ZIP file.
+- The app creates `uploads` and `captions` folders in the same directory.
+- Free Gemini API Quota: 50 requests/day, resets at 2:00 AM CEST.
+-----------------------------------------------------------------------------------------
 ## App Usage Note:
 
    In the app destination folder i recomend to open 
@@ -32,13 +41,17 @@ Download captions as a .zip file with .txt files matching image names
    from the folder so you see how long process it left, test with a few images first to check your API key
 
  # Screenshots
-
+## 1.👇
+![App Screenshot3](screenshot3.png)
+## 2.👇
+![App Screenshot2](screenshot2.png)
+## 3.👇
 ![App Screenshot](screenshot.png)  
 *Enter your Gemini API key, (Optional) Enter a trigger word (e.g., "Luma rose"), Upload images and click "Generate Captions". Download captions.zip for LoRA training.*
 
 
  ## Generated .TXT files for images
-
+## 4.👇
 ![App Screenshot1](screenshot1.png)
 *Example of Luma_0003.txt:  Luma rose, A beautiful 20-year-old woman, smiling, direct gaze, blue eyes, blonde hair, taking a selfie while lying on her back, hand on stomach, slim body, toned abs, wearing red sheer lingerie, red bra, red panties, in bed, white sheets, bedroom.*
 
