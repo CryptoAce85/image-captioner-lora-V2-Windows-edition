@@ -23,8 +23,9 @@ Download captions as a .zip file with .txt files matching image names
 - Get a Gemini API key at: (https://makersuite.google.com/)
 - if Gemini API key is region blocked its because its the server you connected to is in wrong destination, test with another gmail
 - when u find a gmail that works you can create one Key,
-  and to create more keys with same Gmail make several projects that needs a Gemini key with that gmail in
+  and to create more keys with same Gmail make several projects that needs a Gemini key  with that gmail in
   (https://studio.firebase.google.com/)
+(in the end of project creation you press "Generate fast key" and you get another prodject key that you can acces from the https://makersuite.google.com/)
 
 - Explaination video to make several keys:  (https://www.youtube.com/watch?v=IdVgDHeNiEM)
 
